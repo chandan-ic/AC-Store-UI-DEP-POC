@@ -1,0 +1,3 @@
+export {
+    setMasterData,
+} from './master';
