@@ -78,7 +78,7 @@ const testRideAddress = useSelector((state) => state.testRide.testRideAddress)
           <button className="w-33 border-1 border-transparent rounded hover:border-gray-500 mt-2 focus:outline-none text-yellow-500 text-sm py-1.5 px-5 bg-gray-100 hover:bg-yellow-400 hover:text-gray-700 hover:shadow-lg flex items-center 
  transition-colors duration-1000 ease-out uppercase"
             onClick={previous}>Back</button>
-          <button disabled={(!testRideType || testRideType === 'CTY') && (pinCode === null || dealerCode === null ) }
+          <button disabled={(!testRideType || testRideType === 'CTY') && (pinCode === null || dealerCode === null) ||  ( testRideAddress === null || customerPincode === null) }
             className="disabled:opacity-50 
 w-33 border-1 hover:border-transparent rounded border-gray-500 mt-2 focus:outline-none
  hover:text-yellow-500 text-sm py-1.5 px-5 hover:bg-gray-100 bg-yellow-400 text-gray-700
@@ -92,4 +92,3 @@ w-33 border-1 hover:border-transparent rounded border-gray-500 mt-2 focus:outlin
 };
 
 export default SelectLocation;
-//|| testRideAddress === null || customerPincode === null
