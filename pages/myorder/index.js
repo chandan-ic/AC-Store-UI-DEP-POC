@@ -5,7 +5,7 @@ import { OrderList } from "components/MyOrder/OrderList";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 import { useTranslation } from "next-i18next";
 import { Modal } from "components/Common/Component";
-import { myOrderAction } from "components/MyOrder/store/myOrder-slice";
+import { myOrderAction } from "components/MyOrder/store/myorder-slice";
 
 export default function Search() {
   const { t } = useTranslation(["common", "myorder"]);

@@ -14,7 +14,7 @@ import {
   trContactFormLicenseSchema,
   trContactFormSchema,
 } from "utils/validation/testRide";
-import { VerifyOtp } from "./verifyOtp";
+import { VerifyOtp } from "./VerifyOtp";
 
 export const Contact = ({ navigation }) => {
   const { t } = useTranslation(["testRide", "common"]);

@@ -77,7 +77,7 @@ import loginSlice from "components/LoginUI/store/login-slice";
 import errorSlice from "components/Common/store/error/error-slice";
 import MyRequestSlice from "components/MyRequests/store/myRequest-slice";
 import financeSlice from "components/FinanceEligibility/store/financeSlice";
-import homeSlice from "components/Home/Store/home-slice";
+import homeSlice from "components/Home/store/home-slice";
 
 const store = configureStore({
   reducer: {

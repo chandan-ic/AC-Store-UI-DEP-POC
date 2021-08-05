@@ -6,7 +6,7 @@ import {
 import { useDispatch } from "react-redux";
 import { server } from "../../config";
 import axios from "axios";
-import Link from "next/Link";
+import Link from "next/link";
 
 export default function TestRequestList() {
   const dispatch = useDispatch();

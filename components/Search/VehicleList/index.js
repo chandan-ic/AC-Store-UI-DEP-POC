@@ -5,7 +5,7 @@ import Pagination from "components/Pagination/Pagination";
 import Router from "next/router";
 import { searchRequest } from "components/Search/store/search-action";
 import { getSearchPayload } from "utils/helper/storeHelper";
-import Link from "next/Link";
+import Link from "next/link";
 import { SortFilter } from "components/Search/SortFilter";
 import { useTranslation } from "next-i18next";
 import { testRideActions } from "components/TestRide/store/testRide-slice";

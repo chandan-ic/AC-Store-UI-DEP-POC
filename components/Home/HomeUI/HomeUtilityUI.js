@@ -4,7 +4,7 @@ import { useSelector, useDispatch } from "react-redux";
 import Link from "next/link";
 import Image from "next/image";
 //import { SimpleConsoleLogger } from 'typeorm';
-import { getHomeCategoryData } from "components/Home/Store/home-action";
+import { getHomeCategoryData } from "components/Home/store/home-action";
 import DiscoverCard from "./DiscoverCard";
 
 export default function HomeUtilityUI(props) {

@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useSelector, useDispatch } from "react-redux";
 
 import Router from "next/router";
-import Link from "next/Link";
+import Link from "next/link";
 import { useTranslation } from "next-i18next";
 import Pagination from "../Pagination/Pagination";
 

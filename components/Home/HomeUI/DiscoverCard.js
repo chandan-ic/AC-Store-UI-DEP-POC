@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import {  useDispatch } from "react-redux";
-import { setHomeSearchCategory } from "components/Home/Store/home-action";
+import { setHomeSearchCategory } from "components/Home/store/home-action";
 import Router, { useRouter } from "next/router";
 import { SEARCH } from "utils/constant/routerPath";
 

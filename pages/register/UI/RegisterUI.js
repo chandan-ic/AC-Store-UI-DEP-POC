@@ -1,7 +1,7 @@
 import Customer from "components/Common/Component/Customer";
 import { loginActions } from "components/LoginUI/store/login-slice";
 import { useTranslation } from "next-i18next";
-import Link from "next/Link";
+import Link from "next/link";
 import Router from "next/router";
 import React from "react";
 import { useDispatch } from "react-redux";

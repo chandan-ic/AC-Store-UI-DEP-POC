@@ -1,4 +1,4 @@
-import Link from "next/Link";
+import Link from "next/link";
 export default function Accessories() {
   return (
     <section className="acSec bg-default sm:mb-10">

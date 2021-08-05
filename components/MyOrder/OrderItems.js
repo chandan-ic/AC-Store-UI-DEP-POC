@@ -1,5 +1,5 @@
 import { Button } from "components/Common/Controls";
-import { myOrderAction } from "components/MyOrder/store/myOrder-slice";
+import { myOrderAction } from "components/MyOrder/store/myorder-slice";
 import { useTranslation } from "next-i18next";
 import Image from "next/image";
 import React from "react";
