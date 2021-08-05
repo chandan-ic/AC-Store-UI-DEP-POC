@@ -1,3 +1,0 @@
-export {
-    setMasterData,
-} from './master';

@@ -1,1 +1,0 @@
-export const SET_MASTER_DATA = 'SET_MASTER_DATA' 
