@@ -1,0 +1,21 @@
+{
+    "headers": {
+        "request-header": "TestRide Request",
+        "request-no": "Request No",
+        "request-date": "Date",
+        "request-finance": "Finance Eligibility Check Request",
+        "my-request": "My Requests"
+    },
+    "labels": {
+        "test-loc": "TestRide Details",
+        "test-addr": "Customer Address",
+        "dealer-name": "Dealer Name",
+        "dealer-addr": "Dealer Address",
+        "cancel-reason": "Reason For Cancellation",
+        "other-reason": "Other Reason",
+        "customer-name": "Customer Name",
+        "customer-addr": "Customer Address",
+        "financer-name": "Financer Name",
+        "financer-details": "Financer Details"
+    }
+}

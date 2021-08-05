@@ -1,0 +1,11 @@
+{
+  "error-fName": "First Name is Required",
+  "Invalid-fName": "Name Should contain not numbers",
+  "error-lName": "Last Name is Required",
+  "error-Phone": "Phone Number is Required",
+  "invalid-Phone": "Invalid phone number",
+  "error-Email": "Enter a valid email",
+  "invalid-Email": "Email is Required",
+  "error-AltPhone": "Phone Number is Required",
+  "invalid-AltPhone": "Invalid phone number"
+}

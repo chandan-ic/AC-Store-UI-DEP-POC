@@ -1,0 +1,20 @@
+{
+    "labels": {
+        "opt-required": "(required)",
+        "optional":"(optional)",
+        "cus-fname": "FirstName",
+        "cus-lname": "LastName",
+        "cus-phone": "Mobile Number",
+        "cus-email": "Email",
+        "cus-password": "Password",
+        "cus-confirmPassword": "Confirm Password"
+    },
+    "placeholder": {
+        "enter-fname": "Enter First Name",
+        "enter-lname": "Enter Last Name",
+        "enter-phone": "Enter Mobile Number",
+        "enter-email": "Enter Your Mail",
+        "enter-password": "Enter password",
+        "enter-confPassword": "Re enter password"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "labels": {
+        "myOrders": "My Orders",
+        "orderNumber": "Order Number",
+        "paymentstatus": "Payment Status",
+        "waiting":"Waiting for Payment confirmation",
+        "done":"Done",
+        "pending":"Pending",
+       "transit": "In-Transit",
+       "delivered":"Delivered",
+       "orderPlaced":"Order Placed",
+       "track":"Track",
+       "deliveryExcept": "Delivery Expected By",
+       "soldBy":"Sold By",
+       "qty":"Qty",
+       "itemTotal":"Item Total",
+       "deliveryOn":"Delivery On",
+       "status":"Status",
+       "orderTotal":"Order Total",
+       "partialPaid":"Partial Paid"
+       
+    },
+    "btnText":{
+        "cancelOrder":"CANCEL ORDER",
+        "makePayment":"Make Payment"
+        
+    },
+    "modal":{
+        "cancelOrder":"Do you want to cancel order?",
+        "email":"Email",
+        "dismiss":"Dismiss",
+        "inst":"If you want to cancel the order please contact the dealership, please find the contact below:"
+        
+    }
+}

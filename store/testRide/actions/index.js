@@ -1,0 +1,21 @@
+export {
+        setCurrentPage,
+        setBikeBrand,
+        setBikeVariant,
+        setPinCode,
+        setTestRideType,
+        setTestRideLocation,
+        setDealerCode,
+        setTestRideAddress,
+        setTestRideDate,
+        setTestRideTime,
+        setTestRideSelectedDate,
+        setTestRideCustomerName,
+        setTestRideCustomerEmail,
+        setTestRideCustomerPhone,
+        setTestRideCustomerDlnumber,
+        setTestRideCustomerAltPhone,
+        setTestRideCustomerPincode,
+        setPreselected,
+        setRequestNumber
+} from './testRide';

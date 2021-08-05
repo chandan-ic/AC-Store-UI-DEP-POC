@@ -1,0 +1,22 @@
+{
+    "label":{
+        "all":"All",
+        "bikeType":"Bike Type",
+        "yourSearchResult":"Your Search Results:",
+        "matchingBikes": "Matching Bikes",
+        "sortBy":"Sort by",
+        "brands":"BRANDS",
+        "price":"PRICE",
+        "engineCC":"ENGINE CC",
+        "specialFeatures":"SPECIAL FEATURES",
+        "filter":"Filter",
+        "filters":"Filters",
+        "exShowRoomPrice":"*Ex Showroom price"
+    },
+    "buttonTxt":{
+        "clearAll":"clearAll",
+        "testRide":"TEST RIDE",
+        "book":"BOOK"
+    }
+
+}

@@ -1,0 +1,63 @@
+{
+  "pageHeaders": {
+    "signup": "SIGN UP ",
+    "signup-explore": "Explore our awesome community",
+    "verify-otp": "VERIFY OTP",
+    "login": "LOGIN",
+    "login-fPassword": "Forgot your password?",
+    "login-otp":"Login with OTP",
+    "verify-phone":"Verify your Mobile Number"
+    
+  },
+  "labels": {
+    "signup-accountText": "Already have an account?",
+    "login-remember": "Remember Me",
+    "reset-password": "RESET PASSWORD",
+    "update-password": "UPDATE PASSWORD",
+    "new-password": "Create new password",
+    "check-msg": "Check your message",
+    "otp-message": "OTP has been sent to your registered mobile number please enter OTP to reset your password.",
+    "signup-acceptTerms": "Accept Our Terms and Conditions",
+    "userName":"EMAIL / MOBILE NUMBER",
+    "password":"PASSWORD",
+    "mobileNo":"MOBILE NUMBER",
+    "newPassword":"New Password",
+    "confirmPassword":"Confrim New Password"
+  },
+  "placeHolder":{
+    "userName":"Enter Email or Mobile Number",
+    "password":"Enter Password",
+    "mobileNo":"Enter Mobile Number",
+    "newPassword":"Enter New Password",
+    "confirmPassword":"Enter New Password"
+
+  },
+  "btn-labels": {
+    "signup-signinBtn": "Sign In",
+    "login-btnText": "LOGIN",
+    "verify-otp-btn": "VERIFY OTP",
+    "signup-btnText": " CREATE ACCOUNT",
+    "reset-btn": "RESET PASSWORD",
+    "update-btn": "UPDATE PASSWORD",
+    "send-otp": "SEND OTP",
+    "verify-link":"Click here to verify your Mobile Number"
+  },
+  "reg-links": {
+    "login-otpLink": "Login using OTP",
+    "continue-link": "Continue"
+  },
+  "notify-messages": {
+    "thank-you": "Thank You",
+    "success-message": "You have been successfully registered!"
+  },
+  "validation":{
+    "password":"Password is Required",
+    "userName":"User Name is Required",
+    "cpassword":"Confirm Password is Required",
+    "minPassword":"Password must be of minimum 8 characters",
+    "maxPassword":"Password must be of maximum 20 characters",
+    "mismatch":"Password does not match",
+    "invalidUserName":"Invalid Email or Mobile Number",
+    "simplePassword":"Password must have \n \u2022 at least one uppercase letter, \n \u2022one lowercase letter,\n \u2022 one number and \n \u2022one special character"
+  }
+}

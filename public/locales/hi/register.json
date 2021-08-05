@@ -1,0 +1,44 @@
+{
+  "pageHeaders": {
+    "signup": "SIGN UP ",
+    "signup-explore": "Explore our awesome community",
+    "verify-otp": "VERIFY OTP",
+    "login": "LOGIN",
+    "login-fPassword": "Forgot your password?"
+  },
+  "labels": {
+    "signup-accountText": "Already have an account?",
+    "login-remember": "Remember Me",
+    "reset-password": "RESET PASSWORD",
+    "update-password": "UPDATE PASSWORD",
+    "new-password": "Create new password",
+    "check-msg": "Check your message",
+    "otp-message": "OTP has been sent to your registered mobile number please enter OTP to reset your password.",
+    "signup-acceptTerms": "Accept Our Terms and Conditions",
+    "userName":"EMAIL / MOBILE NUMBER",
+    "password":"PASSWORD",
+    "mobileNo":"MOBILE NUMBER"
+  },
+  "placeHolder":{
+    "userName":"Enter Email or Mobile Number",
+    "password":"Enter Password",
+    "mobileNo":"Enter Mobile Number"
+
+  },
+  "btn-labels": {
+    "signup-signinBtn": "SignIn",
+    "login-btnText": "LOGIN",
+    "verify-otp-btn": "VERIFY OTP",
+    "signup-btnText": " CREATE ACCOUNT",
+    "reset-btn": "RESET PASSWORD",
+    "update-btn": "UPDATE PASSWORD"
+  },
+  "reg-links": {
+    "login-otpLink": "Login using OTP",
+    "continue-link": "Continue"
+  },
+  "notify-messages": {
+    "thank-you": "Thank You",
+    "success-message": "You have been successfully registered!"
+  }
+}

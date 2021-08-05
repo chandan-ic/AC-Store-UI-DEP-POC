@@ -1,0 +1,75 @@
+{
+
+    "heading":{
+        "primary":"PRIMARY",
+        "additional":"ADDITIONAL"
+    },
+    
+    "label":{
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "addressLine1":"Address Line 1",
+        "addressLine2":"Address Line 2",
+        "city":"City",
+        "state":"State",
+        "country":"Country",
+        "pincode":"Pincode",
+        "address":"Address",
+        "contactName":"Contact Name"
+    },
+    "tab": {
+        "address":"Address",
+        "contact":"Contact",
+        "documents":"Documents",
+        "otherInfo":"Other Info"
+    },
+    "placeHolder":{
+        "brand": "Select Brand",
+        "model": "Select Model",
+        "firstName": "Enter Your First Name",
+        "lastName": "Enter Your Last Name",
+        "mobileNo":"Enter Your Mobile Number",
+        "email":"Enter Your Email",
+        "dlNo":"Enter Your Driving License Number",
+        "alternatePhoneNo":"Enter Your Alternate Phone Number",
+        "rideType":"Select Ride Type",
+        "rideLocation":"Select Ride Location",
+        "address":"Address",
+        "pincode":"Pincode",
+        "rideState":"Select State",
+        "rideCity":"Select City",
+        "rideTime":"Select Time",
+        "otp":"Enter Otp"
+    },
+    "submit":{
+        "thankYou":"Thank You",
+        "message":"We have received your request for the Test Ride. You will hear from us shortly.",
+        "select":"Select",
+        "schedule":"Schedule",
+        "ride":"Ride"
+    },
+
+    "buttonTxt":{
+        "next":"Next",
+        "back":"Back",
+        "submit":"Submit",
+        "go":"Go",
+        "regenarateOtp":"Regenarate otp"
+    },
+
+    "validation":{
+        "pincodeInvalid":"Must be only digits",
+        "pincodeLength":"Must be exactly 6 digits",
+        "firstNameRequired":"First Name is Required",
+        "lastNameRequired":"Last Name is Required",
+        "phoneRequired":"Phone Number is Required",
+        "phoneInvalid":"Invalid Phone Number",
+        "emailRequired":"Email is Required",
+        "emailInvalid":"Enter a valid email",
+        "dlRequired":"Driving License Number is Required",
+        "dlInvalid":"Invalid Driving License Number"
+    }
+   
+}
+

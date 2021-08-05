@@ -1,0 +1,110 @@
+{
+
+    "heading":{
+        "main":"REQUEST A TEST RIDE",
+        "bikeSelectHeading": "Select a bike for your Test Ride",
+        "locationHeading": "Select Location",
+        "scheduleHeading": "Select schedule",
+        "contactHeading": "Update Contact details",
+        "verifyOtpHeading":"Verify otp"
+    },
+    "banner":{
+        "yourDesiredBike":"Your Desired Bike",
+        "yourDesiredTime":"Your Desired Time",
+        "yourDesiredLocation":"Your Desired Location"
+    },
+    "label":{
+        "brand": "SELECT A BRAND",
+        "model": "SELECT A MODEL",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "mobileNo":"Your Mobile Number",
+        "email":"Your Email",
+        "dlNo":"Your Driving License Number",
+        "alternatePhoneNo":"Your Alternate Phone Number",
+        "termsCondition":"By clicking submit you agree to our TermsAndConditions",
+        "rideType":"SELECT TEST RIDE TYPE",
+        "rideLocation":"SELECT TEST RIDE LOCATION",
+        "address":"Customer Address",
+        "pincode":"Enter Your Pincode",
+        "searchDealersBy":"Search Dealers By",
+        "rideState":"SELECT STATE FOR TEST RIDE",
+        "rideCity":"SELECT CITY FOR TEST RIDE",
+        "rideDate":"PREFERRED DATE",
+        "rideTime":"PREFERRED TIME",
+        "otp":"Otp"
+        
+    },
+    "dealers":{
+        "noDealer":"No dealers close to your pincode",
+        "dealerResult":"dealer(s) close to your pincode",
+        "selectDealer":"Select Dealer",
+        "no":"No"
+
+    },
+    "tab": {
+        "selectBike":"Bike",
+        "selectLocation":"Location",
+        "selectSchedule":" Schedule",
+        "yourDetail":"Your Details"
+    },
+    "placeHolder":{
+        "brand": "Select Brand",
+        "model": "Select Model",
+        "firstName": "Enter Your First Name",
+        "lastName": "Enter Your Last Name",
+        "mobileNo":"Enter Your Mobile Number",
+        "email":"Enter Your Email",
+        "dlNo":"Enter Your Driving License Number",
+        "alternatePhoneNo":"Enter Your Alternate Phone Number",
+        "rideType":"Select Ride Type",
+        "rideLocation":"Select Ride Location",
+        "address":"Address",
+        "pincode":"Pincode",
+        "rideState":"Select State",
+        "rideCity":"Select City",
+        "rideTime":"Select Time",
+        "otp":"Enter Otp"
+    },
+    "submit":{
+        "thankYou":"Thank You",
+        "message":"We have received your request for the Test Ride. You will hear from us shortly.",
+        "select":"Select",
+        "schedule":"Schedule",
+        "ride":"Ride"
+    },
+
+    "buttonTxt":{
+        "next":"Next",
+        "back":"Back",
+        "submit":"Submit",
+        "go":"Find",
+        "regenarateOtp":"Regenarate otp",
+        "goHome":"Back to Home Page"
+    },
+
+    "validation":{
+        "pincodeInvalid":"Must be only digits",
+        "pincodeLength":"Must be exactly 6 digits",
+        "pincodeRequired":"Pincode is Required",
+        "addressRequired":"Address is Required",
+        "firstNameRequired":"First Name is Required",
+        "lastNameRequired":"Last Name is Required",
+        "phoneRequired":"Phone Number is Required",
+        "phoneInvalid":"Invalid Phone Number",
+        "emailRequired":"Email is Required",
+        "emailInvalid":"Enter a valid email",
+        "dlRequired":"Driving License Number is Required",
+        "dlInvalid":"Invalid Driving License Number",
+        "phoneLength":"Phone Number must be 10 digits",
+        "specialCharNum":"Numbers and Special charaters not allowed",
+        "specialChar":"Special charaters not allowed"
+    },
+    
+    "submittedMessage":"Your request has been successfully submitted"
+
+   
+
+   
+}
+

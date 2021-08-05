@@ -1,0 +1,31 @@
+{
+    "label":{
+        "all":"All",
+        "bikeType":"Bike Type",
+        "yourSearchResult":"Your Search Results:",
+        "matchingBikes": "Matching Bikes",
+        "sortBy":"Sort by",
+        "brands":"BRANDS",
+        "price":"PRICE",
+        "engineCC":"ENGINE CC",
+        "specialFeatures":"SPECIAL FEATURES",
+        "filter":"Filter",
+        "filters":"Filters",
+        "exShowRoomPrice":"*Ex Showroom price",
+        "fuelType":"Fuel Type",
+        "petrol":"Petrol",
+        "diesel":"Diesel",
+        "electricity":"Electricity", 
+        "perPage":"Per Page",
+        "priceLow":"PRICE - LOW TO HIGH",
+        "priceHigh":"PRICE - HIGH TO LOW",
+        "engineLow":"ENGINECC - LOW TO HIGH",
+        "engineHigh":"ENGINECC - LOW TO HIGH"
+    },
+    "buttonTxt":{
+        "clearAll":"clear All",
+        "testRide":"TEST RIDE",
+        "book":"BOOK"
+    }
+
+}
